@@ -484,4 +484,6 @@ Your FastAPI application is now **fully implemented** with all requested feature
 
 References :
 Kaggle Notebooks
+
+
 Pytorch Docs for custom Resnet
