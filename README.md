@@ -480,3 +480,8 @@ Your FastAPI application is now **fully implemented** with all requested feature
 - ✅ **Gemini AI description with model predictions**
 - ✅ **Complete web interface for testing**
 - ✅ **Comprehensive API documentation**
+
+
+References :
+Kaggle Notebooks
+Pytorch Docs for custom Resnet
